@@ -1,0 +1,42 @@
+.introContent {
+    margin: 100px 0px;
+}
+
+.particlePosition{
+    position: fixed;
+    z-index: -1;
+    background-repeat: repeat;
+    width: 100%;
+    height: 100%;
+}
+
+caption {
+    font-size: larger;
+    color: white;
+}
+
+.nameEmphasize{
+    text-shadow: 4px 4px 6px rgba(218,20,255,0.7);
+}
+
+.nameIntro{
+    color: 	#14AEFF;
+}
+
+.LogoSize{
+    max-width: 50px;
+    max-height: 50px;
+    color: white;
+}
+
+.card-color{
+    background: rgba(0, 6, 16, 0.5);
+    color: white;
+    transition: all 0.3s ease 0s;
+}
+
+.card-color:hover{
+    background: #FF6514;
+    color: #0e0e0e;
+    margin-bottom: calc(1%);
+}

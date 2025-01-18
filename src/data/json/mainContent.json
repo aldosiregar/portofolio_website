@@ -1,0 +1,37 @@
+{
+    "skills" : [
+        {
+            "Title" : "Data Science",
+            "Description" : "Mengurusi segala hal yang berhubugan dengan data, seperti membersihkan data penelitian, menampilkannya dengan grafik, dan membuat prediksi menggunakan metode machine learning",
+            "Keahlian" : [
+                "Statistic",
+                "Python Programming",
+                "Big Data",
+                "Data Visualization",
+                "Machine Learning"
+            ]
+        },
+        {
+            "Title" : "Front-end Development",
+            "Description" : "Mengurusi segala hal yang berkaitan dengan antarmuka sebuah Website",
+            "Keahlian" : [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React JS"
+            ]
+        },
+        {
+            "Title" : "Back-end Development",
+            "Description" : "Mengurusi segala hal yang berkaitan dengan proses balik layar sebuah Website",
+            "Keahlian" : [
+                "PHP",
+                "SQL",
+                "Node JS"
+            ]
+        }
+    ],
+    "PastProject" : [
+        
+    ]
+}
